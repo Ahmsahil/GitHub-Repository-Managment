@@ -4,9 +4,6 @@ public class New_Repository{
        System.out.println("This is a new repository")
            for(int i = 0; i < name.lenght; i++){
            System.out.println("This is the name lenght); 
-           
-           
        }
-        System.out.println("This should not work); 
     }
 }
